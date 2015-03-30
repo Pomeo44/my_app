@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Persona ltrainer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_main_app">MainApp</string>
+    <string name="title_activity_secundomer">Secundomer</string>
+</resources>
